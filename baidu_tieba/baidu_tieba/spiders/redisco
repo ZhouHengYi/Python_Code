@@ -1,0 +1,12 @@
+import scrapy
+from redisco import models
+
+class JRedisco(models.Model):
+    bid = models.Attribute(required=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    fave_colors = models.ListField(str)
+
+class addRedisco():
+    bid = models.Attribute(required=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    fave_colors = models.ListField(str)

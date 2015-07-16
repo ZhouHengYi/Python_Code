@@ -1,0 +1,21 @@
+mysql:
+    mysql+type://root:newegg@123@192.168.0.8:3006/baidu_jpan
+sqlite:
+    # relative path
+    sqlite+type:///path/to/database.db
+    # absolute path
+    sqlite+type:////path/to/database.db
+    # memory database
+    sqlite+type://
+mongodb:
+    mongodb+type://[username:password@]host1[:port1][,host2[:port2],...[,hostN[:portN]]][/[database][?options]]
+    more: http://docs.mongodb.org/manual/reference/connection-string/
+sqlalchemy:
+    sqlalchemy+postgresql+type://postgres:newegg@123@127.0.0.1:5432/postgres
+    sqlalchemy+mysql+mysqlconnector+type://postgres:newegg@123@127.0.0.1:5432/postgres
+    more: http://docs.sqlalchemy.org/en/rel_0_9/core/engines.html
+local:
+    local+projectdb://filepath,filepath
+
+type:
+    should be one of `taskdb`, `projectdb`, `resultdb`.

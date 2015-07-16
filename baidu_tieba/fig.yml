@@ -1,0 +1,47 @@
+mysql:
+  image: dockerfile/mysql:latest
+rabbitmq:
+  image: dockerfile/rabbitmq:latest
+phantomjs:
+  image: cmfatih/phantomjs:latest
+  expose:
+    - "25555"
+  volumes:
+    - .:/mnt/test
+  command: /usr/bin/phantomjs  --ssl-protocol=any /mnt/test/pyspider/fetcher/phantomjs_fetcher.js 25555
+result_worker:
+  image: binux/pyspider:latest
+  links:
+    - mysql
+    - rabbitmq
+  command: result_worker
+processor:
+  image: binux/pyspider:latest
+  links:
+    - mysql
+    - rabbitmq
+  command: processor
+fetcher:
+  image: binux/pyspider:latest
+  links:
+    - rabbitmq
+    - phantomjs
+  command : fetcher
+scheduler:
+  image: binux/pyspider:latest
+  links:
+    - mysql
+    - rabbitmq
+  command: scheduler
+webui:
+  image: binux/pyspider:latest
+  links:
+    - mysql
+    - rabbitmq
+    - scheduler
+    - phantomjs
+  volumes:
+    - .:/opt/pyspider
+  command: webui
+  ports:
+    - "5000:5000"

@@ -1,0 +1,351 @@
+3741807767
+SELECT * FROM jpanlist WHERE bid = 3741807767
+()
+bid:3741807767 is exists
+3725390079
+SELECT * FROM jpanlist WHERE bid = 3725390079
+()
+bid:3725390079 is exists
+3598243313
+SELECT * FROM jpanlist WHERE bid = 3598243313
+({'title': u'\u65e5\u672c\u7559\u5b66\u603b\u653b\u7565\uff08\u7b2c\u4e00\u90e8\u7559\u5b66\u7bc7\uff0c\u7b2c\u4e8c\u90e8\u8fdb\u5b66\u7bc7\uff09', 'bid': 3598243313L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 51), 'link': u'/p/3598243313', 'sysno': 46373L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3598243313 is exists
+3743046955
+SELECT * FROM jpanlist WHERE bid = 3743046955
+()
+bid:3743046955 is exists
+3743214350
+SELECT * FROM jpanlist WHERE bid = 3743214350
+()
+bid:3743214350 is exists
+3743746467
+SELECT * FROM jpanlist WHERE bid = 3743746467
+()
+bid:3743746467 is exists
+3742643264
+SELECT * FROM jpanlist WHERE bid = 3742643264
+()
+bid:3742643264 is exists
+3154891155
+SELECT * FROM jpanlist WHERE bid = 3154891155
+({'title': u'\u6c42\u52a9\uff5e \u5173\u4e8e\u6237\u53e3\u672c\u4e0a\u7684\u670d\u52a1\u5904\u6240\uff5e', 'bid': 3154891155L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 57), 'link': u'/p/3154891155', 'sysno': 46886L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3154891155 is exists
+3742086978
+SELECT * FROM jpanlist WHERE bid = 3742086978
+()
+bid:3742086978 is exists
+3733065247
+SELECT * FROM jpanlist WHERE bid = 3733065247
+()
+bid:3733065247 is exists
+3738369862
+SELECT * FROM jpanlist WHERE bid = 3738369862
+()
+bid:3738369862 is exists
+3742857979
+SELECT * FROM jpanlist WHERE bid = 3742857979
+()
+bid:3742857979 is exists
+3685324357
+SELECT * FROM jpanlist WHERE bid = 3685324357
+({'title': u'\u7a77\u4eba\u65b0\u95fb\u751f\u751f\u6d3b\u5728\u5927\u962a', 'bid': 3685324357L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 52), 'link': u'/p/3685324357', 'sysno': 46434L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3685324357 is exists
+3742075651
+SELECT * FROM jpanlist WHERE bid = 3742075651
+()
+bid:3742075651 is exists
+3738459956
+SELECT * FROM jpanlist WHERE bid = 3738459956
+()
+bid:3738459956 is exists
+3715180962
+SELECT * FROM jpanlist WHERE bid = 3715180962
+({'title': u'7\u6708\u751f\u5728\u7559\u575a\u6301\u6700\u540e17\u5929\uf60a', 'bid': 3715180962L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 57), 'link': u'/p/3715180962', 'sysno': 46885L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3715180962 is exists
+3743469981
+SELECT * FROM jpanlist WHERE bid = 3743469981
+()
+bid:3743469981 is exists
+3743409082
+SELECT * FROM jpanlist WHERE bid = 3743409082
+()
+bid:3743409082 is exists
+3742749993
+SELECT * FROM jpanlist WHERE bid = 3742749993
+()
+bid:3742749993 is exists
+3742274927
+SELECT * FROM jpanlist WHERE bid = 3742274927
+()
+bid:3742274927 is exists
+2972125337
+SELECT * FROM jpanlist WHERE bid = 2972125337
+({'title': u'\u8bb0\u5f55\u6211\u7684\u7559\u5b66\u751f\u6d3b....^_^.....', 'bid': 2972125337L, 'indate': datetime.datetime(2015, 4, 25, 1, 1, 36), 'link': u'/p/2972125337', 'sysno': 59975L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:2972125337 is exists
+3735786606
+SELECT * FROM jpanlist WHERE bid = 3735786606
+()
+bid:3735786606 is exists
+3688459122
+SELECT * FROM jpanlist WHERE bid = 3688459122
+({'title': u'\u7fa4\u9a6c\u7559\u5b66\u3010\u534a\u5e74\u751f\u6d3b\u8bb0\u5f55\u3011', 'bid': 3688459122L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 53), 'link': u'/p/3688459122', 'sysno': 46490L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3688459122 is exists
+3741553640
+SELECT * FROM jpanlist WHERE bid = 3741553640
+()
+bid:3741553640 is exists
+3414152774
+SELECT * FROM jpanlist WHERE bid = 3414152774
+({'title': u'\u6765\u65e5\u672c\u4e00\u4e2a\u591a\u6708 \u5f00\u8d34\u8bb0\u5f55', 'bid': 3414152774L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 52), 'link': u'/p/3414152774', 'sysno': 46427L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3414152774 is exists
+3743184587
+SELECT * FROM jpanlist WHERE bid = 3743184587
+()
+bid:3743184587 is exists
+3737366201
+SELECT * FROM jpanlist WHERE bid = 3737366201
+()
+bid:3737366201 is exists
+3742578117
+SELECT * FROM jpanlist WHERE bid = 3742578117
+()
+bid:3742578117 is exists
+3743729908
+SELECT * FROM jpanlist WHERE bid = 3743729908
+()
+bid:3743729908 is exists
+2692939222
+SELECT * FROM jpanlist WHERE bid = 2692939222
+({'title': u'\u5751\u7239\u4e2d\u4ecb\u3001\u5b66\u6821\u60c5\u62a5\u6c47\u603b\u8d34\u3002', 'bid': 2692939222L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 51), 'link': u'/p/2692939222', 'sysno': 46383L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:2692939222 is exists
+3020909011
+SELECT * FROM jpanlist WHERE bid = 3020909011
+({'title': u'\u3010\u4e00\u671f\u4e00\u4f1a\u3011\u8bb0\u5728\u65e5\u672c\u7684\u70b9\u6ef4\uff0c\u671b\u81ea\u5df1\u5207\u83ab\u9057\u5fd8', 'bid': 3020909011L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 52), 'link': u'/p/3020909011', 'sysno': 46433L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3020909011 is exists
+3743697034
+SELECT * FROM jpanlist WHERE bid = 3743697034
+()
+bid:3743697034 is exists
+3742766769
+SELECT * FROM jpanlist WHERE bid = 3742766769
+()
+bid:3742766769 is exists
+3717899829
+SELECT * FROM jpanlist WHERE bid = 3717899829
+({'title': u'\u5f00\u8d34\u7eaa\u5f55\u4e00\u4e0b\u5230\u6700\u540e\u79bb\u5f00\u3002\u4e0d\u5b9a\u671f\u66f4\u65b0\u3002', 'bid': 3717899829L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 51), 'link': u'/p/3717899829', 'sysno': 46375L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3717899829 is exists
+3627948623
+SELECT * FROM jpanlist WHERE bid = 3627948623
+({'title': u'\u5173\u4e8e\u7533\u8bf7\u8bed\u8a00\u5b66\u6821\u7684\u8be6\u7ec6\u6b65\u9aa4\u3002\u3002\u6c42\u5927\u5927\u89e3\u7591\u3002\u3002\u8c22\u8c22\uff01', 'bid': 3627948623L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 56), 'link': u'/p/3627948623', 'sysno': 46816L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3627948623 is exists
+2908924844
+SELECT * FROM jpanlist WHERE bid = 2908924844
+({'title': u'\u3010\u9ed1\u4e2d\u4ecb\u66dd\u5149\u3011\u4e0a\u6d77\u534e\u4fa8\u56fd\u9645\u6559\u80b2 \u65e5\u672c\u4e09\u90e8', 'bid': 2908924844L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 56), 'link': u'/p/2908924844', 'sysno': 46803L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:2908924844 is exists
+3739498432
+SELECT * FROM jpanlist WHERE bid = 3739498432
+()
+bid:3739498432 is exists
+3731613797
+SELECT * FROM jpanlist WHERE bid = 3731613797
+()
+bid:3731613797 is exists
+3742784353
+SELECT * FROM jpanlist WHERE bid = 3742784353
+()
+bid:3742784353 is exists
+3734927774
+SELECT * FROM jpanlist WHERE bid = 3734927774
+()
+bid:3734927774 is exists
+3714984409
+SELECT * FROM jpanlist WHERE bid = 3714984409
+({'title': u'\u5b66\u4e60\u751f\u6d3b\u6b65\u5165\u6b63\u8f68 \u4e0d\u5b9a\u671f\u66f4\u65b0', 'bid': 3714984409L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 52), 'link': u'/p/3714984409', 'sysno': 46465L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3714984409 is exists
+3729181310
+SELECT * FROM jpanlist WHERE bid = 3729181310
+()
+bid:3729181310 is exists
+3743333778
+SELECT * FROM jpanlist WHERE bid = 3743333778
+()
+bid:3743333778 is exists
+3742189577
+SELECT * FROM jpanlist WHERE bid = 3742189577
+()
+bid:3742189577 is exists
+3740969451
+SELECT * FROM jpanlist WHERE bid = 3740969451
+()
+bid:3740969451 is exists
+3742902407
+SELECT * FROM jpanlist WHERE bid = 3742902407
+()
+bid:3742902407 is exists
+3664005296
+SELECT * FROM jpanlist WHERE bid = 3664005296
+({'title': u'\u4ea4\u6362\u751f\u7684\u4e00\u5e74\u7559\u5b66\u751f\u6d3b\u76f4\u64ad\u4e2d', 'bid': 3664005296L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 53), 'link': u'/p/3664005296', 'sysno': 46496L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3664005296 is exists
+3736799243
+SELECT * FROM jpanlist WHERE bid = 3736799243
+()
+bid:3736799243 is exists
+3738341800
+SELECT * FROM jpanlist WHERE bid = 3738341800
+()
+bid:3738341800 is exists
+3718851802
+SELECT * FROM jpanlist WHERE bid = 3718851802
+({'title': u'\u3010B\u7ad9\u5904\u5973\u4f5c\u3011\u4e1c\u4eac\u5916\u56fd\u8bed\u5927\u5b66\u4e00\u4e2a\u6708\u6539\u53d8\u6211\u5bf9\u65e5\u672c\u7684\u770b\u6cd5', 'bid': 3718851802L, 'indate': datetime.datetime(2015, 4, 25, 0, 58, 54), 'link': u'/p/3718851802', 'sysno': 46626L, 'furl': u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'},)
+bid:3718851802 is exists
+[{'bid': u'3741807767',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3741807767'],
+ 'title': [u'\u5173\u4e8e\u6628\u5929\u665a\u4e0a\u53d1\u751f\u7684\u4e8b\u60c5\uff0c\u7279\u6b64\u516c\u544a\u4e00\u4e0b\u3002']}, {'bid': u'3725390079',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3725390079'],
+ 'title': [u'\u672c\u5427\u7684QQ\u4e3b\u7fa4\u3001QQ\u5206\u7fa4\u3001\u5fae\u4fe1\u516c\u5171\u53f7\uff08\u6dfb\u52a07\u670810\u6708\u751f\u7fa4\uff09']}, {'bid': u'3598243313',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3598243313'],
+ 'title': [u'\u65e5\u672c\u7559\u5b66\u603b\u653b\u7565\uff08\u7b2c\u4e00\u90e8\u7559\u5b66\u7bc7\uff0c\u7b2c\u4e8c\u90e8\u8fdb\u5b66\u7bc7\uff09']}, {'bid': u'3743046955',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743046955'],
+ 'title': [u'\u8bf7\u95ee\u5927\u962a\u65e5\u672c\u8bed\u6559\u80b2\u4e2d\u5fc3\u7684\u5bbf\u820d\u6709\u6ca1\u6709WiFi']}, {'bid': u'3743214350',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743214350'],
+ 'title': [u'94\u5e74\u54d2\u5927\u8fde\u59b9\u7eb8\uff01\u4e1c\u4eac\u4e03\u6708\u751f\uff0c\u6c42\u5c0f\u4f19\u4f34\u6536\u7559\uff01']}, {'bid': u'3743746467',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743746467'],
+ 'title': [u'\u60f3\u53bb\u65e5\u672c\u5531\u6b4c']}, {'bid': u'3742643264',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742643264'],
+ 'title': [u'24\u5c81\u53bb\u65e5\u672c\u8bfb\u4e66\u665a\u5417\uff1f']}, {'bid': u'3154891155',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3154891155'],
+ 'title': [u'\u6c42\u52a9\uff5e \u5173\u4e8e\u6237\u53e3\u672c\u4e0a\u7684\u670d\u52a1\u5904\u6240\uff5e']}, {'bid': u'3742086978',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742086978'],
+ 'title': [u'\u6c42\u52a9\u5927\u795e!!']}, {'bid': u'3733065247',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3733065247'],
+ 'title': [u'\u3010\u8bb0\u5f55\u3011\u65e0\u8bba\u6210\u4e0d\u6210\uff0c\u90fd\u8bb0\u5f55\u4e00\u4e0b\uff01']}, {'bid': u'3738369862',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3738369862'],
+ 'title': [u'\u8bed\u8a00\u5b66\u6821\u6bd5\u4e1a\u3001\u6e05\u7406\u4e66\u7c4d\u3002\u6709\u9700\u8981\u7684\u5417\uff1f']}, {'bid': u'3742857979',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742857979'],
+ 'title': [u'\u5173\u4e8e\u7b7e\u8bc1\u95ee\u9898']}, {'bid': u'3685324357',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3685324357'],
+ 'title': [u'\u7a77\u4eba\u65b0\u95fb\u751f\u751f\u6d3b\u5728\u5927\u962a']}, {'bid': u'3742075651',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742075651'],
+ 'title': [u'\u95ee\u4e00\u4e0b\u5173\u4e8e\u65e5\u672c\u7559\u5b66\u7684\u5efa\u8bae']}, {'bid': u'3738459956',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3738459956'],
+ 'title': [u'\u3010\u65e5\u672c\u7559\u5b66\u4e0e\u4e2d\u56fd\u9ad8\u8003\u3011']}, {'bid': u'3715180962',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3715180962'],
+ 'title': [u'7\u6708\u751f\u5728\u7559\u575a\u6301\u6700\u540e17\u5929\uf60a']}, {'bid': u'3743469981',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743469981'],
+ 'title': [u'\u5927\u5bb6\u4e00\u5e74\u90fd\u56de\u51e0\u6b21\u56fd\u554aw']}, {'bid': u'3743409082',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743409082'],
+ 'title': [u'\u4e1c\u4eac\u7535\u6c14\u901a\u4fe1\u5927\u5b66\u600e\u4e48\u6837\uff0c\u670b\u53cb\u53bb\u8bfb\u7814\u7a76\u751f']}, {'bid': u'3742749993',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742749993'],
+ 'title': [u'\u9ad8\u7530\u9a6c\u573a\u9644\u8fd1\u6536\u4e00\u672c\u65b0\u6807\u65e5\u521d\u4e0a']}, {'bid': u'3742274927',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742274927'],
+ 'title': [u'\u7559\u5b66\u8fc7\u53bb\u65e5\u672c\u600e\u4e48\u6837\u53ef\u4ee5\u5446\u5728\u90a3']}, {'bid': u'2972125337',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/2972125337'],
+ 'title': [u'\u8bb0\u5f55\u6211\u7684\u7559\u5b66\u751f\u6d3b....^_^.....']}, {'bid': u'3735786606',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3735786606'],
+ 'title': [u'\u54b3\u54b3\uff0c\u5176\u5b9e\u6211\u60f3\u6307\u51fa\u4e00\u4e2a\u95ee\u9898']}, {'bid': u'3688459122',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3688459122'],
+ 'title': [u'\u7fa4\u9a6c\u7559\u5b66\u3010\u534a\u5e74\u751f\u6d3b\u8bb0\u5f55\u3011']}, {'bid': u'3741553640',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3741553640'],
+ 'title': [u'\u53ef\u4ee5\u4e0d\u53bb\u8bed\u8a00\u5b66\u6821\u5417']}, {'bid': u'3414152774',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3414152774'],
+ 'title': [u'\u6765\u65e5\u672c\u4e00\u4e2a\u591a\u6708 \u5f00\u8d34\u8bb0\u5f55']}, {'bid': u'3743184587',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743184587'],
+ 'title': [u'\u770b\u5230\u597d\u591a\u8bf4\u4e2d\u4ecb\u7684\u6211\u5c31\u60f3\u95ee\u4e0b\uff0c\u7559\u5b66\u4e00\u5b9a\u8981\u627e\u4e2d\u4ecb\u5417\uff1f']}, {'bid': u'3737366201',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3737366201'],
+ 'title': [u'\u8bf7\u95ee\u4fdd\u8bc1\u91d1\u8d37\u6b3e\u6709\u98ce\u9669\u5417\uff1f']}, {'bid': u'3742578117',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742578117'],
+ 'title': [u'\u6709\u4eba\u542c\u8bf4\u8fc7\u5317\u9646\u5148\u7aef\u79d1\u5b66\u6280\u672f\u5927\u5b66\u9662\u5927\u5b66\u5417\uff1f']}, {'bid': u'3743729908',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743729908'],
+ 'title': [u'\u4e1c\u4eac\u6709\u6ca1\u6709\u4ec0\u4e48\u5bb9\u6613\u8fdb\u7684\u56fd\u7acb\u516c\u7acb\u5927\u5b66']}, {'bid': u'2692939222',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/2692939222'],
+ 'title': [u'\u5751\u7239\u4e2d\u4ecb\u3001\u5b66\u6821\u60c5\u62a5\u6c47\u603b\u8d34\u3002']}, {'bid': u'3020909011',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3020909011'],
+ 'title': [u'\u3010\u4e00\u671f\u4e00\u4f1a\u3011\u8bb0\u5728\u65e5\u672c\u7684\u70b9\u6ef4\uff0c\u671b\u81ea\u5df1\u5207\u83ab\u9057\u5fd8']}, {'bid': u'3743697034',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743697034'],
+ 'title': [u'\u8fd9\u91cc\u6709\u6ca1\u6709\u5927\u962a\u5927\u5b66\u7ecf\u6d4e\u5b66\u7814\u7a76\u79d1\u7684\u524d\u8f88\u554a']}, {'bid': u'3742766769',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742766769'],
+ 'title': [u'\u4e00\u4e2a\u7559\u5b66\uff16\u5e74\uff08\u5927\u5b66\uff0b\u5927\u5b66\u9662\uff09\uff0c\u5de5\u4f5c\uff18\u5e74\u7684\u6c38\u9a7b\u8005\u7684\u610f\u89c1']}, {'bid': u'3717899829',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3717899829'],
+ 'title': [u'\u5f00\u8d34\u7eaa\u5f55\u4e00\u4e0b\u5230\u6700\u540e\u79bb\u5f00\u3002\u4e0d\u5b9a\u671f\u66f4\u65b0\u3002']}, {'bid': u'3627948623',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3627948623'],
+ 'title': [u'\u5173\u4e8e\u7533\u8bf7\u8bed\u8a00\u5b66\u6821\u7684\u8be6\u7ec6\u6b65\u9aa4\u3002\u3002\u6c42\u5927\u5927\u89e3\u7591\u3002\u3002\u8c22\u8c22\uff01']}, {'bid': u'2908924844',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/2908924844'],
+ 'title': [u'\u3010\u9ed1\u4e2d\u4ecb\u66dd\u5149\u3011\u4e0a\u6d77\u534e\u4fa8\u56fd\u9645\u6559\u80b2 \u65e5\u672c\u4e09\u90e8']}, {'bid': u'3739498432',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3739498432'],
+ 'title': [u'4\u6708/10\u6708\u751f\u8fdb\u3002\u592a\u9633\u6811\u7684\u4e5f\u8fdb\u3002']}, {'bid': u'3731613797',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3731613797'],
+ 'title': [u'\u65e5\u672c\u5927\u962a\u7559\u5b66\uff08\u521a\u5f00\u5e16\uff0c\u95f2\u4e86\u66f4\u65b0\uff09']}, {'bid': u'3742784353',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742784353'],
+ 'title': [u'\u6c42\u524d\u8f88\u89e3\u7b54']}, {'bid': u'3734927774',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3734927774'],
+ 'title': [u'\u51c6\u5907\u53bb\u7559\u5b66\uff0c\u8fd9\u51e0\u4e2a\u5730\u65b9\u54ea\u4e2a\u6bd4\u8f83\u597d\uff1f']}, {'bid': u'3714984409',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3714984409'],
+ 'title': [u'\u5b66\u4e60\u751f\u6d3b\u6b65\u5165\u6b63\u8f68 \u4e0d\u5b9a\u671f\u66f4\u65b0']}, {'bid': u'3729181310',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3729181310'],
+ 'title': [u'\u6211\u5df2\u7ecf\u9010\u6e10\u653e\u5f03\u8981\u5408\u79df\u7684\u6b32\u671b\u4e86']}, {'bid': u'3743333778',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3743333778'],
+ 'title': [u'\u3010\u6c42\u52a9\u3011\u9ad8\u4e8c\u6e23\u6e23 \u73b0\u5728\u624d\u60f3\u7740\u51fa\u56fd \u6c42\u52a9\u554a']}, {'bid': u'3742189577',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742189577'],
+ 'title': [u'\u6709\u6ca1\u6709\u660e\u751f\u60c5\u62a5\u4e13\u95e8\u5b66\u6821\u7684 \u540c\u5b66']}, {'bid': u'3740969451',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3740969451'],
+ 'title': [u'\u8ffd\u8fc7\u65e5\u672c\u59b9\u5b50\u7684\u8001\u53f8\u673a\u8fdb\uff01\uff01\uff01']}, {'bid': u'3742902407',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3742902407'],
+ 'title': [u'\u672c\u4eba\u5927\u4e00\uff0c\u8001\u5e08\u8bf4\u6709\u4e2a\u673a\u4f1a\u53bb\u65e5\u672c\u7559\u5b66']}, {'bid': u'3664005296',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3664005296'],
+ 'title': [u'\u4ea4\u6362\u751f\u7684\u4e00\u5e74\u7559\u5b66\u751f\u6d3b\u76f4\u64ad\u4e2d']}, {'bid': u'3736799243',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3736799243'],
+ 'title': [u'\u7b2c\u4e00\u5929\u6253\u5de5 \uff08\uff3e\u2207\uff3e\uff09']}, {'bid': u'3738341800',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3738341800'],
+ 'title': [u'\u5728\u6b27\u6d32\u62a4\u7167\u88ab\u5077\u4e86 \u8bf7\u5404\u4f4d\u6c42\u52a9']}, {'bid': u'3718851802',
+ 'furl': [u'tieba.baidu.com/f?kw=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6&ie=utf-8'],
+ 'link': [u'/p/3718851802'],
+ 'title': [u'\u3010B\u7ad9\u5904\u5973\u4f5c\u3011\u4e1c\u4eac\u5916\u56fd\u8bed\u5927\u5b66\u4e00\u4e2a\u6708\u6539\u53d8\u6211\u5bf9\u65e5\u672c\u7684\u770b\u6cd5']}]

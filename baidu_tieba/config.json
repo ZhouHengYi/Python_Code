@@ -1,0 +1,11 @@
+{
+  "taskdb": "mysql+taskdb://root:newegg@123@192.168.0.8:3006/taskdb",
+  "projectdb": "mysql+projectdb://root:newegg@123@192.168.0.8:3006/projectdb",
+  "resultdb": "mysql+resultdb://root:newegg@123@192.168.0.8:3006/resultdb",
+  "amqp_url": "amqp://username:password@host:port/%2F",
+  "webui": {
+    "username": "henry",
+    "password": "newegg@123",
+    "need-auth": true
+  }
+}
